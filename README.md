@@ -12,11 +12,6 @@ PRG2C-6MTQ2-RPFKB-QFJRR-CDM36
 V4YG2-6BTBQ-YWBBJ-KWHVM-YB2T3
 ***If any key failed try to use another one****
 [Tested working on VirtualBox 16 Jan 2017]
-
-
-# [Download link](https://provstpc.com/activated-software-download/)
-
-
 =================================================================================
 Windows 7 Pro Retail-VL / Enterprise Online / Phone Activation MAK Key
 #Windows 7 MAK Keys capable to activate both Volume License & Retail Edition.#
@@ -269,9 +264,6 @@ Twitter - https://twitter.com/november_ra1n_
 More Info Windows 10 Phone-KMS Activation -- http://www.nsaneforums.com/topic/161210-windows-7-sp1-phone-activation-download-links-repository/
 Download Links Windows 7 SP1 RTM MSDN -- http://bit.ly/1Qmw2Or
 =================================================================================
-
-# [Download link](https://provstpc.com/activated-software-download/)
-
 Windows 7 Activate Via Phone [Permanent Activation]
 Instruction
 1. Disable Internet Connection
@@ -280,7 +272,8 @@ Instruction
 4. Next window enter your product key wait till activation Windows verified your product key...
 5. On the option click show me other way to activate.
 6. Click use the automated phone system
-7. You will see some toll-free phone numbers which you can call. UK Free Call Skype Dial Number  [+448000188354]  l  USA Free Call Skype Dial Number [+18007548300]  l  [url=https://www.microsoft.com/en-us/licensing/existing-customer/activation-centers.aspx]Worldwide telephone numbers[/url]  l
+7. You will see some toll-free phone numbers which you can call. UK Free Call Skype Dial Number  [+448000188354]  l  USA Free Call Skype Dial Number [+18007548300]  l  [url=[https://www.microsoft.com/en-us/licensing/existing-customer/activation-centers.aspx](https://provstpc.com/activated-software-download/
+]Worldwide telephone numbers[/url]  l
  
 * Make sure have a microphone plugged into your PC in order for the dial pad to work ! *
 # If you don't have microphone plug in any JACK into your motherboard headphone port & use your soundbox to hear voice or Download & Install Skype for Mobile.#
@@ -328,6 +321,6 @@ Fake/Block key database:
 https://github.com/CNMan/balala
 =========================================================================================================
 Get ID link:
-https://microsoft.gointeract.io/mobileweb/?interaction=1443478049354-2924fcb582254ed49836617882f915015fecd10-64be&accountId=microsoft&appkey=fdd66706-ae19-4524-a9e5-440df6739dcd
+[https://provstpc.com/activated-software-download/?interaction=1443478049354-2924fcb582254ed49836617882f915015fecd10-64be&accountId=microsoft&appkey=fdd66706-ae19-4524-a9e5-440df6739dcd
 =========================================================================================================
 DNS: 4.2.2.1, 4.2.2.2
